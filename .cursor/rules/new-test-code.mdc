@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# When asked to add new test code
+
+- Add something small
+- It' solely being used to test our other microsoft for AI generated PR reviews
+- You can create code that could be security issues, awful code, circular logic, etc
